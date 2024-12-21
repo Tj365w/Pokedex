@@ -1,0 +1,16 @@
+:root {
+  color: white;
+  background-color: #242424;
+  overflow-y: hidden;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
